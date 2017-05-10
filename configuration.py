@@ -1,0 +1,7 @@
+DNS="1.1.1.1,2.2.2.2"
+NTP="3.3.3.3"
+DOMAIN="cisco.com"
+LUSER="user"
+LUPASS="070C285F4D0657544541"
+VLANS="10:POS,90:Management,100:IPS,110:DB,200:Guest-Internet,250:Test-VLAN"
+SNMP="hfg7834$%45sdf"

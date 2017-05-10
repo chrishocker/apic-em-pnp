@@ -1,0 +1,3 @@
+APIC="10.83.11.107"
+APIC_USER="admin"
+APIC_PASSWORD= "Cisco123"
